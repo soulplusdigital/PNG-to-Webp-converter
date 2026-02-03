@@ -28,7 +28,7 @@ cd PNG-to-Webp-converter
 ### 2. Crie um ambiente virtual (recomendado)
 
 ```bash
-python -m venv venv
+python3 -m venv venv
 
 # Linux/macOS
 source venv/bin/activate
@@ -40,7 +40,7 @@ venv\Scripts\activate
 ### 3. Instale as dependências
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## 📖 Uso
